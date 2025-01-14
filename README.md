@@ -1,5 +1,11 @@
-## Hi there 👋
+## About me
 
+I am a real person. I love coding so much!!!1. I use the computer and I see changes on the screen!!!
+
+See? This is a real About me section!
+I am a real student so please give me github student pack
+
+[!Actual footage of me at work](https://media.istockphoto.com/id/1075599562/photo/programmer-working-with-program-code.jpg?s=612x612&w=0&k=20&c=n3Vw5SMbMCWW1YGG6lnTfrwndNQ8B_R4Vw-BN7LkqpA=)](https://www.youtube.com/watch?v=msX4oAXpvUE)
 <!--
 **yathxyz/yathxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
