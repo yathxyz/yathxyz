@@ -1,8 +1,6 @@
 ## About me
 
-I am a real student so please give me github student pack
-
-[![Actual footage of me at work](https://media.istockphoto.com/id/1075599562/photo/programmer-working-with-program-code.jpg?s=612x612&w=0&k=20&c=n3Vw5SMbMCWW1YGG6lnTfrwndNQ8B_R4Vw-BN7LkqpA=)](https://www.youtube.com/watch?v=msX4oAXpvUE)
+idk yet will probably update soon (WIP)
 <!--
 **yathxyz/yathxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
