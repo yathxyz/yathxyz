@@ -1,6 +1,6 @@
 ## About me
 
-idk yet will probably update soon (WIP)
+WIP
 <!--
 **yathxyz/yathxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
